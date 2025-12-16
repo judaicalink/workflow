@@ -1,0 +1,1 @@
+python WikiExtractor.py  c:\users\rovera\lab\data\itwiki-20190420-pages-articles.xml.bz2 -o c:\users\rovera\lab\wiki_extracted --filter_disambig_pages --filter_category c:\users\rovera\lab\data\include_categories.txt
