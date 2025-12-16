@@ -551,7 +551,7 @@ $RECYCLE.BIN/
 *.lnk
 
 # pickle files
-.pickle
+*.pickle
 
 # Vector files
-.vec
+*.vec
